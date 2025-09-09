@@ -9,6 +9,8 @@ Step 2 : Follow the commands:
     gcc ./userApp.c
     ./a.out
 
+NOTE: Replace <major number> by value of major number. You can find this by doing "sudo dmesg" on your terminal
+
 Step 3 : Now press button connected to the raspberry pi
 
 
